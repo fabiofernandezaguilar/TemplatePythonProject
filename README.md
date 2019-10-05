@@ -1,7 +1,7 @@
 # TemplatePythonProject
 Template and Structure for Python Projectś 
 
-Authot:fabio.fernandezaguilar@gmail.com
+Author:fabio.fernandezaguilar@gmail.com
 
 Costa Rica
 
